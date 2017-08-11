@@ -9,4 +9,8 @@ The class is implemented platform independant.
 
 The main module contains some examples
 
-
+Compiling with preprocessor option 
+    SAPonNT     would create a version for Windows and 
+    SAPonUNIX   wound create a UNIX version
+    
+    
